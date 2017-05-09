@@ -2,6 +2,6 @@ theme: jekyll-theme-cayman
 page.title: Eugene Mercuriev Personal Page
 markdown: kramdown
 title: Eugene Mercuriev Personal Page
-description: Something about
+description: Something [about](about.md)
 site:
     title: Eugene Mercuriev Personal Page
