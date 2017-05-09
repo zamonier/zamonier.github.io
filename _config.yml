@@ -3,3 +3,5 @@ page.title: Eugene Mercuriev Personal Page
 markdown: kramdown
 title: Eugene Mercuriev Personal Page
 description: Something about
+site:
+    title: Eugene Mercuriev Personal Page
